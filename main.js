@@ -19,6 +19,8 @@ for(i=2; i<=33; i++)
 
 console.log(fib[33]);
 
+
+// This selects only the even numbers to sum up.
 let a = 0;
 //fib = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let sumEven = 0;
